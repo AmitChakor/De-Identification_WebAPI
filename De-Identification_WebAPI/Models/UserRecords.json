@@ -1,0 +1,23 @@
+[
+  {
+    "birthDate": "2000-01-01",
+    "zipCode": "10013",
+    "admissionDate": "2019-03-12",
+    "dischargeDate": "2019-03-14",
+    "notes": "Patient with ssn 123-45-6789 previously presented under different ssn"
+  },
+  {
+    "birthDate": "2001-05-05",
+    "zipCode": "13138",
+    "admissionDate": "2019-03-12",
+    "dischargeDate": "2019-03-14",
+    "notes": "Patient with ssn 113-45-3453 previously presented under different ssn with email amit.chakor@gmail.com"
+  },
+  {
+    "birthDate": "1915-04-02",
+    "zipCode": "49420",
+    "admissionDate": "1965-03-15",
+    "dischargeDate": "1966-03-25",
+    "notes": "User with email marksolomons@welbee.co.uk and with ssn 322-12-7767 previously presented under different ssn "
+  }
+]
